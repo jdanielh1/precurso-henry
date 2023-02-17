@@ -1,2 +1,1 @@
-# precurso-henry
-repositorio de prueba del modulo 2 de soyhenry
+este proyecto es una prueba de como descargar y clonar
